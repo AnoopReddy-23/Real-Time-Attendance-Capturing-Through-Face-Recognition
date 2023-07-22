@@ -1,4 +1,4 @@
- # Real-Time-Attendance-Through-Face-Recognition
+ # Real-Time-Attendance-Capturing-Through-Face-Recognition
 
 This project is a Face Recognition based Attendance Management System. The system uses face recognition technology to mark the attendance of students by recognizing their faces. It simplifies the attendance process by automatically capturing and storing attendance data in an Excel sheet.
 The Face Recognition Attendance System is a powerful and efficient solution for managing attendance in educational institutions and organizations. This system leverages cutting-edge face recognition technology to accurately and automatically mark the attendance of students or employees, streamlining the attendance tracking process and reducing administrative burden.
